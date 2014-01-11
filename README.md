@@ -1,3 +1,5 @@
+## Get The Latest TestFlightSDK Here.
+
 ## Introduction
 
 The TestFlight SDK allows you to track how beta testers are testing your application. Out of the box we track simple usage information, such as which tester is using your application, their device model/OS, how long they used the application, and automatic recording of any crashes they encounter.
